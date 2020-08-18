@@ -4,9 +4,7 @@ author: "ME"
 date: "18/08/2020"
 output: pdf_document
 ---
-# Storm Data Analysis - Types of Event
-Tuan Vu  
-Friday, July 25, 2014  
+
 ## Sysnopis
 This is an R Markdown document which is used to analyze the [Storm Data](https://d396qusza40orc.cloudfront.net/repdata%2Fdata%2FStormData.csv.bz2) based on the [National Weather Service Storm Data](https://d396qusza40orc.cloudfront.net/repdata%2Fpeer2_doc%2Fpd01016005curr.pdf). The document is focus in answering the two question which are:
 
